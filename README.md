@@ -1,0 +1,2 @@
+# workspace
+rust workspace demo
